@@ -1,4 +1,4 @@
-package web.config.model;
+package web.model;
 
 import org.springframework.security.core.GrantedAuthority;
 

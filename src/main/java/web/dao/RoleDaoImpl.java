@@ -1,7 +1,7 @@
 package web.dao;
 
 import org.springframework.stereotype.Repository;
-import web.config.model.Role;
+import web.model.Role;
 
 import javax.persistence.EntityManager;
 import javax.persistence.PersistenceContext;

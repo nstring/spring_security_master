@@ -1,6 +1,6 @@
-package web.config.service;
+package web.service;
 
-import web.config.model.User;
+import web.model.User;
 
 import java.util.List;
 

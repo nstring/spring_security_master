@@ -5,8 +5,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
-import web.config.model.User;
-import web.config.service.UserService;
+import web.model.User;
+import web.service.UserService;
 import web.dao.RoleDao;
 
 import java.util.List;

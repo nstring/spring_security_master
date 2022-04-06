@@ -1,6 +1,6 @@
-package web.config.service;
+package web.service;
 
-import web.config.model.Role;
+import web.model.Role;
 
 import java.util.List;
 

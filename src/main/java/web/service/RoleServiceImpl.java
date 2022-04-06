@@ -1,8 +1,8 @@
-package web.config.service;
+package web.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import web.config.model.Role;
+import web.model.Role;
 import web.dao.RoleDao;
 
 import java.util.List;

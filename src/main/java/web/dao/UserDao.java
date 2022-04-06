@@ -1,6 +1,6 @@
 package web.dao;
 
-import web.config.model.User;
+import web.model.User;
 
 import java.util.List;
 
